@@ -1,2 +1,3 @@
-arima_mae,arima_rmse,arima_mape_pct,arima_dir_acc,rf_test_mae,rf_test_rmse,rf_test_mape_pct,rf_test_dir_acc,rf_rolling_mae,rf_rolling_rmse,rf_rolling_mape_pct,rf_rolling_dir_acc
-0.008597111357884811,0.011319005174018083,106.61587563382659,0.53,0.009077197395291624,0.013390205881132806,173196321032.1052,0.6345949770074284,0.008213150992770894,0.012020794862508219,408.40416549551657,0.6366666666666667
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddbe870f7e0436c1a1f8b19f413dae85b5f6b7836c6e7ced770aaef2078c2c66
+size 405
