@@ -1,0 +1,14 @@
+{
+  "arima_mae": 0.008597111357884811,
+  "arima_rmse": 0.011319005174018083,
+  "arima_mape_pct": 106.61587563382659,
+  "arima_dir_acc": 0.53,
+  "rf_test_mae": 0.009077197395291624,
+  "rf_test_rmse": 0.013390205881132806,
+  "rf_test_mape_pct": 173196321032.1052,
+  "rf_test_dir_acc": 0.6345949770074284,
+  "rf_rolling_mae": 0.008213150992770894,
+  "rf_rolling_rmse": 0.012020794862508219,
+  "rf_rolling_mape_pct": 408.40416549551657,
+  "rf_rolling_dir_acc": 0.6366666666666667
+}
