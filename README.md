@@ -11,6 +11,7 @@ This project focuses on analyzing long-term financial market data to evaluate po
 - Analysis
 - Evaluation
 - Libraries
+- Tools
 
 # Business Problem
 Investment managers and analysts need to understand historical portfolio behavior while evaluating different forecasting approaches to support data-driven investment decisions.
