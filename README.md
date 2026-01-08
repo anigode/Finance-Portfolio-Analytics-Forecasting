@@ -78,3 +78,8 @@ Key preprocessing steps include:
 - seaborn
 - joblib
 - Power BI (for visualization)
+
+# Tools
+- Jupyter Notebook
+-  Power BI
+- Git & GitHub
